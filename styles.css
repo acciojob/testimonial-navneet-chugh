@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+#box{
+	background-color:#f5f5f5;
+	width:600px; height:350px;
+}
+#he{
+	padding:15px;
+	margin:3px;
+	
+}
+#box2{
+	background-color:white;
+	border:solid black;
+	margin:8px;
+}
+#box3{
+	background-color:white;
+	border:solid black;
+	margin:8px;
+}
+#p1{
+	text-align:right;
+	font-style:italic;
+	padding:4px;
+}
+#p2{
+	text-align:right;
+	font-style:italic;
+	padding:4px;
+}
